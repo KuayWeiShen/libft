@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by wkuay
+*This project has been created as part of the 42 curriculum by wkuay*
 
 # Libft - My First C Library
 
